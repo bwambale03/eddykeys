@@ -1,2 +1,2 @@
-# muhiwa.github.io
+# eddykeys
 This is my personal website
