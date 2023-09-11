@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate software engineer with a love for crafting clean and efficient code. With [X years] of experience in the industry, I've honed my skills in [languages/technologies/frameworks]. I'm dedicated to creating software solutions that not only meet the needs of clients but also exceed their expectations.
+I'm a passionate software engineer with a love for crafting clean and efficient code. With a year of experience in the industry, I've honed my skills in languages/technologies/frameworks. I'm dedicated to creating software solutions that not only meet the needs of clients but also exceed their expectations.
 
 ## Skills
 
