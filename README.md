@@ -1,4 +1,4 @@
-# [Edwin Bwambale]
+# Edwin Bwambale
 
 ## About Me
 
@@ -6,46 +6,46 @@ I'm a passionate software engineer with a love for crafting clean and efficient 
 
 ## Skills
 
-- Programming Languages: [A variety of Stacks]
-- Technologies: [Databases, DevOps and CI/CD, Web/App Development]
-- Frameworks: [(django, Flask), (nodejs, react), Solidity]
-- Databases: [MySQL, MongoDB, Amazon Neptune]
-- [Others: Linux Administration, Virtualization and Containers]
+- Programming Languages: A variety of Stacks
+- Technologies: Databases, DevOps and CI/CD, Web/App Development
+- Frameworks: (django, Flask), (nodejs, react), Solidity
+- Databases: MySQL, MongoDB, Amazon Neptune
+- Others: Linux Administration, Virtualization and Containers
 
 ## Projects
 
-### [AirbnB]
+### AirbnB
 
-[AirbnB is a web-based accommodation booking platform inspired by Airbnb. \n It allows users to search for, view details of, and book accommodations. \n The platform also supports hosts in listing their properties, including details, availability, and pricing.\n  Built using [mention technologies/frameworks], \n AirbnB provides an intuitive and user-friendly interface for both guests and hosts.]
+AirbnB is a web-based accommodation booking platform inspired by Airbnb. \n It allows users to search for, view details of, and book accommodations. \n The platform also supports hosts in listing their properties, including details, availability, and pricing.\n  Built using [mention technologies/frameworks], \n AirbnB provides an intuitive and user-friendly interface for both guests and hosts.]
 
-[https://github.com/bwambale03/AirBnB_clone_v2]
+https://github.com/bwambale03/AirBnB_clone_v2
 
-### [Edwin Bwambale] - [Engineer]
+### Edwin Bwambale - Engineer
 
 ## Education
 
-### [Mbarara University of Science and Technology] - [Computer Engineering]
-### [Africa Leadership University]  - [Software Engineering]
+#### Mbarara University of Science and Technology - [Computer Engineering
+#### Africa Leadership University  - Software Engineering
 
-[to 2026]
+to 2026
 
-- [Relevant coursework or achievements]
+- Relevant coursework or achievements
 
-## Contact Me
+### Contact Me
 
-- Email: [bwambaleedwin03@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/edwinbwambale/]
-- Twitter: [https://twitter.com/EdwinBwambale03]
-- Website: [https://www.eddyreins.tech]
+- Email: bwambaleedwin03@gmail.com
+- LinkedIn: https://www.linkedin.com/in/edwinbwambale/
+- Twitter: https://twitter.com/EdwinBwambale03
+- Website: https://www.eddyreins.tech
 
-## Certifications
+### Certifications
 
-- [Business Management and Administration] - [Technology University of Uganda]
+- Business Management and Administration - Technology University of Uganda
 
-## Interests
+### Interests
 
-- [Playing football and Reading]
-- [Listening to Music as well as Singing]
+- Playing football and Reading
+- Listening to Music as well as Singing
 
 ---
 
